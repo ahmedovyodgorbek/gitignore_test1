@@ -1,0 +1,43 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Test results
+coverage/
+*.cover
+*.log
+nosetests.xml
+coverage.xml
+*.cover
+
+# Miscellaneous
+*.DS_Store
+*.sqlite3
